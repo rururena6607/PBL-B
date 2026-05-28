@@ -30,8 +30,6 @@
 
 ![アプリ画面](docs/screenshot.png)
 
-> ※ 画像は `docs/screenshot.png` に配置してください
-
 ---
 
 ## 機能
