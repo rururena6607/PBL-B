@@ -1,7 +1,6 @@
 # 音による作業モニタリング
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)
 
 大学PBL授業における企業連携プロジェクト。  
